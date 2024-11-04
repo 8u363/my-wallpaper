@@ -1,4 +1,5 @@
 # my-wallpaper
 
-this collections contains a list aof my selected wallpaper
+### Description
+This collections contains a list of my favorite selected wallpaper
 
